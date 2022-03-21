@@ -1,0 +1,6 @@
+http://example.com/2022/03/21/cloudcomputing-2/
+http://example.com/2022/03/09/cloudcomputing-1/
+http://example.com/2022/03/07/First-post-for-testing/
+http://example.com/
+http://example.com/tags/cloud-computing/
+http://example.com/categories/cloud-computing/

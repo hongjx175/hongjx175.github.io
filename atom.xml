@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>河鱼船</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-03-21T13:11:10.934Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>hongjx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cloud computing-homework2</title>
+    <link href="http://example.com/2022/03/21/cloudcomputing-2/"/>
+    <id>http://example.com/2022/03/21/cloudcomputing-2/</id>
+    <published>2022-03-21T08:33:27.000Z</published>
+    <updated>2022-03-21T13:11:10.934Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="列举威胁作用者有哪些，并简要说明。"><a href="#列举威胁作用者有哪些，并简要说明。" class="headerlink" title="列举威胁作用者有哪些，并简要说明。"></a>列举威胁作用者有哪些，并简要说明。</h2><h3 id="列举云安全威胁有哪些，并简要说明。"><a href="#列举云安全威胁有哪些，并简要说明。" class="headerlink" title="列举云安全威胁有哪些，并简要说明。"></a>列举云安全威胁有哪些，并简要说明。</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;列举威胁作用者有哪些，并简要说明。&quot;&gt;&lt;a href=&quot;#列举威胁作用者有哪些，并简要说明。&quot; class=&quot;headerlink&quot; title=&quot;列举威胁作用者有哪些，并简要说明。&quot;&gt;&lt;/a&gt;列举威胁作用者有哪些，并简要说明。&lt;/h2&gt;&lt;h3 id=&quot;列举云安全</summary>
+      
+    
+    
+    
+    <category term="cloud computing" scheme="http://example.com/categories/cloud-computing/"/>
+    
+    
+    <category term="cloud computing" scheme="http://example.com/tags/cloud-computing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cloud computing - homework1</title>
+    <link href="http://example.com/2022/03/09/cloudcomputing-1/"/>
+    <id>http://example.com/2022/03/09/cloudcomputing-1/</id>
+    <published>2022-03-09T09:12:14.000Z</published>
+    <updated>2022-03-20T14:08:35.279Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="云使能技术包括哪些技术组件？用一句话简要说明其关键特征。"><a href="#云使能技术包括哪些技术组件？用一句话简要说明其关键特征。" class="headerlink" title="云使能技术包括哪些技术组件？用一句话简要说明其关键特征。"></a>云使能技术包括哪些技术组件？用一句话简要说明其关键特征。</h2><ol><li><p>宽网络和Internet架构</p><ul><li><p>云用户和云提供者通常利用Internet进行通信，Internet以无中心的供给和管理模型为基础，不受任何集中式实体的控制。</p></li><li><p>网络互联架构的主要组件是使用网络路由器和交换机的无连接分组交换与基于路由器的互联。网络带宽和延迟是影响QoS的因素，而网络拥塞对其有巨大影响。</p></li></ul></li><li><p>数据中心技术</p><ul><li>数据中心是一种特殊的IT基础设施，用于集中放置IT资源</li></ul></li><li><p>虚拟化技术</p><ul><li><p>服务器虚拟化是指利用虚拟化软件将IT硬件抽象为虚拟服务器。</p></li><li><p>虚拟化提供了硬件无关性、服务器整合、资源复制、对资源池更强的支持和灵活的可扩展性。</p></li><li><p>实现虚拟服务器既可以采用基于操作系统的虚拟化，也可以采用基于硬件的虚拟化。</p></li></ul></li><li><p>Web技术</p><ul><li>Web技术经常被用于云服务的实现，并在前段用于远程管理云IT资源。</li></ul></li><li><p>多租户技术</p><ul><li>使用隔离、数据安全、可恢复性、应用升级、可扩展性、使用计费、数据层隔离</li></ul></li><li><p>服务技术</p><ul><li>是事件驱动程序，在运行时拦截消息。</li></ul></li></ol><h2 id="列举至少3种虚拟化软件，并用一句话概括其特点。"><a href="#列举至少3种虚拟化软件，并用一句话概括其特点。" class="headerlink" title="列举至少3种虚拟化软件，并用一句话概括其特点。"></a>列举至少3种虚拟化软件，并用一句话概括其特点。</h2><ol><li><p>VMware workstation：适合单台计算机使用</p></li><li><p>Hype-V：由微软开发，对微软的操作系统支持较好</p></li><li><p>VirtualBox：支持系统种类很多</p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;云使能技术包括哪些技术组件？用一句话简要说明其关键特征。&quot;&gt;&lt;a href=&quot;#云使能技术包括哪些技术组件？用一句话简要说明其关键特征。&quot; class=&quot;headerlink&quot; title=&quot;云使能技术包括哪些技术组件？用一句话简要说明其关键特征。&quot;&gt;&lt;/a&gt;云使</summary>
+      
+    
+    
+    
+    <category term="cloud computing" scheme="http://example.com/categories/cloud-computing/"/>
+    
+    
+    <category term="cloud computing" scheme="http://example.com/tags/cloud-computing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>First post for testing</title>
+    <link href="http://example.com/2022/03/07/First-post-for-testing/"/>
+    <id>http://example.com/2022/03/07/First-post-for-testing/</id>
+    <published>2022-03-07T12:58:07.000Z</published>
+    <updated>2022-03-07T12:59:54.943Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一篇为了完成云计算实验用来测试的blog。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一篇为了完成云计算实验用来测试的blog。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

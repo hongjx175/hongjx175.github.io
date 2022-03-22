@@ -1,6 +1,6 @@
-http://example.com/2022/03/21/cloudcomputing-2/
-http://example.com/2022/03/09/cloudcomputing-1/
-http://example.com/2022/03/07/First-post-for-testing/
-http://example.com/
-http://example.com/tags/cloud-computing/
-http://example.com/categories/cloud-computing/
+https://hongjx175.github.io/2022/03/21/cloudcomputing-2/
+https://hongjx175.github.io/2022/03/09/cloudcomputing-1/
+https://hongjx175.github.io/2022/03/07/First-post-for-testing/
+https://hongjx175.github.io/
+https://hongjx175.github.io/tags/cloud-computing/
+https://hongjx175.github.io/categories/cloud-computing/

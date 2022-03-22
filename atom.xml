@@ -3,11 +3,11 @@
   <title>河鱼船</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://hongjx175.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://hongjx175.github.io/"/>
   <updated>2022-03-22T09:12:13.960Z</updated>
-  <id>http://example.com/</id>
+  <id>https://hongjx175.github.io/</id>
   
   <author>
     <name>hongjx</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>cloud computing - homework2</title>
-    <link href="http://example.com/2022/03/21/cloudcomputing-2/"/>
-    <id>http://example.com/2022/03/21/cloudcomputing-2/</id>
+    <link href="https://hongjx175.github.io/2022/03/21/cloudcomputing-2/"/>
+    <id>https://hongjx175.github.io/2022/03/21/cloudcomputing-2/</id>
     <published>2022-03-21T08:33:27.000Z</published>
     <updated>2022-03-22T09:12:13.960Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="cloud computing" scheme="http://example.com/categories/cloud-computing/"/>
+    <category term="cloud computing" scheme="https://hongjx175.github.io/categories/cloud-computing/"/>
     
     
-    <category term="cloud computing" scheme="http://example.com/tags/cloud-computing/"/>
+    <category term="cloud computing" scheme="https://hongjx175.github.io/tags/cloud-computing/"/>
     
   </entry>
   
   <entry>
     <title>cloud computing - homework1</title>
-    <link href="http://example.com/2022/03/09/cloudcomputing-1/"/>
-    <id>http://example.com/2022/03/09/cloudcomputing-1/</id>
+    <link href="https://hongjx175.github.io/2022/03/09/cloudcomputing-1/"/>
+    <id>https://hongjx175.github.io/2022/03/09/cloudcomputing-1/</id>
     <published>2022-03-09T09:12:14.000Z</published>
     <updated>2022-03-20T14:08:35.279Z</updated>
     
@@ -57,17 +57,17 @@
     
     
     
-    <category term="cloud computing" scheme="http://example.com/categories/cloud-computing/"/>
+    <category term="cloud computing" scheme="https://hongjx175.github.io/categories/cloud-computing/"/>
     
     
-    <category term="cloud computing" scheme="http://example.com/tags/cloud-computing/"/>
+    <category term="cloud computing" scheme="https://hongjx175.github.io/tags/cloud-computing/"/>
     
   </entry>
   
   <entry>
     <title>First post for testing</title>
-    <link href="http://example.com/2022/03/07/First-post-for-testing/"/>
-    <id>http://example.com/2022/03/07/First-post-for-testing/</id>
+    <link href="https://hongjx175.github.io/2022/03/07/First-post-for-testing/"/>
+    <id>https://hongjx175.github.io/2022/03/07/First-post-for-testing/</id>
     <published>2022-03-07T12:58:07.000Z</published>
     <updated>2022-03-07T12:59:54.943Z</updated>
     

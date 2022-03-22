@@ -18,15 +18,15 @@
   
   
   <title>cloud computing - homework2 | 河鱼船</title>
-  <meta name="description" content="列举威胁作用者有哪些，并简要说明。列举云安全威胁有哪些，并简要说明。">
+  <meta name="description" content="列举威胁作用者有哪些，并简要说明。威胁作用者是引发威胁的实体，因为它能够实施攻击。 威胁作用者共分为以下四类：  匿名攻击者：是指云中没有权限、不被信任的云服务用户，往往采用绕过用户账号或者窃取用户证书的手段，并使用能确保匿名性或需要大量资源才能被检举的方法进行攻击。 恶意服务作用者：能截取并转发云内的网络流量，截取网络通信，试图恶意地使用或篡改数据。 授信的攻击者：指恶意租户，是经过授权的云服务">
 <meta property="og:type" content="article">
 <meta property="og:title" content="cloud computing - homework2">
 <meta property="og:url" content="http://example.com/2022/03/21/cloudcomputing-2/index.html">
 <meta property="og:site_name" content="河鱼船">
-<meta property="og:description" content="列举威胁作用者有哪些，并简要说明。列举云安全威胁有哪些，并简要说明。">
+<meta property="og:description" content="列举威胁作用者有哪些，并简要说明。威胁作用者是引发威胁的实体，因为它能够实施攻击。 威胁作用者共分为以下四类：  匿名攻击者：是指云中没有权限、不被信任的云服务用户，往往采用绕过用户账号或者窃取用户证书的手段，并使用能确保匿名性或需要大量资源才能被检举的方法进行攻击。 恶意服务作用者：能截取并转发云内的网络流量，截取网络通信，试图恶意地使用或篡改数据。 授信的攻击者：指恶意租户，是经过授权的云服务">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2022-03-21T08:33:27.000Z">
-<meta property="article:modified_time" content="2022-03-22T05:59:15.065Z">
+<meta property="article:modified_time" content="2022-03-22T09:12:13.960Z">
 <meta property="article:author" content="hongjx">
 <meta property="article:tag" content="cloud computing">
 <meta name="twitter:card" content="summary">
@@ -44,6 +44,8 @@
   
   
   
+  
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1.4.0/dist/gitalk.min.css">
   
 <meta name="generator" content="Hexo 5.4.1"></head>
 
@@ -221,7 +223,23 @@
     </div>
     <div class="article-entry marked-body" itemprop="articleBody">
       
-        <h2 id="列举威胁作用者有哪些，并简要说明。"><a href="#列举威胁作用者有哪些，并简要说明。" class="headerlink" title="列举威胁作用者有哪些，并简要说明。"></a>列举威胁作用者有哪些，并简要说明。</h2><h3 id="列举云安全威胁有哪些，并简要说明。"><a href="#列举云安全威胁有哪些，并简要说明。" class="headerlink" title="列举云安全威胁有哪些，并简要说明。"></a>列举云安全威胁有哪些，并简要说明。</h3>
+        <h2 id="列举威胁作用者有哪些，并简要说明。"><a href="#列举威胁作用者有哪些，并简要说明。" class="headerlink" title="列举威胁作用者有哪些，并简要说明。"></a>列举威胁作用者有哪些，并简要说明。</h2><p>威胁作用者是引发威胁的实体，因为它能够实施攻击。</p>
+<p>威胁作用者共分为以下四类：</p>
+<ul>
+<li>匿名攻击者：是指云中<strong>没有权限、不被信任的云服务用户</strong>，往往采用<strong>绕过用户账号或者窃取用户证书</strong>的手段，并使用能确保匿名性或需要大量资源才能被检举的方法进行攻击。</li>
+<li>恶意服务作用者：能<strong>截取并转发云内的网络流量</strong>，截取网络通信，试图恶意地使用或篡改数据。</li>
+<li>授信的攻击者：指恶意租户，是<strong>经过授权</strong>的云服务用户，<strong>具有合法的证书</strong>，把与他们共享IT资源的云租户作为攻击目标。</li>
+<li>恶意的内部人员：人为的威胁作用者，可能因为<strong>拥有访问云用户IT资源的管理特权</strong>而带来极大的破坏可能性。</li>
+</ul>
+<h2 id="列举云安全威胁有哪些，并简要说明。"><a href="#列举云安全威胁有哪些，并简要说明。" class="headerlink" title="列举云安全威胁有哪些，并简要说明。"></a>列举云安全威胁有哪些，并简要说明。</h2><ul>
+<li>流量窃听：指当数据在传输到云中或在云内部传输时（通常是从云用户到云提供者），被恶意的服务作用者<strong>被动地截获</strong>，用于非法的信息收集，<strong>破坏保密性</strong>。</li>
+<li>恶意媒介：是指消息被<strong>恶意服务作用者截获并篡改</strong>，因此可能会破坏消息的保密性和完整性。它还有可能在把消息转发到目的地之前<strong>插入有害数据</strong>。</li>
+<li>拒绝服务攻击：当目标IT资源由于请求过多而负载过重，这些请求意在<strong>使IT资源性能陷入瘫痪或不可用</strong>。</li>
+<li>授权不足攻击：指错误地授<strong>予了攻击者访问权限</strong>或是<strong>授权太宽泛</strong>，或是使用了<strong>弱密码</strong>。</li>
+<li>虚拟化攻击：利用的是<strong>虚拟化环境的漏洞</strong>，获得了对<strong>底层物理硬件</strong>未被授权的访问。</li>
+<li>重叠的信任边界：攻击与<strong>他人共享的IT资源</strong>，目的为损害其他共享同样信任边界的云服务用户或者IT资源。</li>
+</ul>
+
       
     </div>
     <div class="article-footer">
@@ -263,7 +281,7 @@
     
   <section id="comments">
   	
-      <div id="vcomments"></div>
+           
     
   </section>
 
@@ -356,29 +374,24 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
 
    
     
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/valine"></script>
+  <!-- <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"> -->
+  <script src="//cdn.jsdelivr.net/npm/gitalk@1.6.2/dist/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/blueimp-md5@2.10.0/js/md5.min.js"></script>
   <script type="text/javascript">
-  var GUEST = ['nick', 'mail', 'link'];
-  var meta = 'nick,mail,link';
-  meta = meta.split(',').filter(function(item) {
-    return GUEST.indexOf(item) > -1;
-  });
-  new Valine({
-    el: '#vcomments',
-    verify: false,
-    notify: false,
-    appId: '',
-    appKey: '',
-    placeholder: 'Just go go',
-    avatar: 'mm',
-    meta: meta,
-    pageSize: '10' || 10,
-    visitor: false
-  });
+  var gitalk = new Gitalk({
+    clientID: '',
+    clientSecret: '',
+    repo: '',
+    owner: '',
+    admin: [''],
+    id: md5(location.pathname),
+    distractionFreeMode: true,
+    language: 'zh-CN',
+    enableHotKey: 'true'
+  })
+  gitalk.render('comments')
   </script>
-
-     
+      
 
 
 

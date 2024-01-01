@@ -21,8 +21,6 @@ Jixiang Hong (洪吉祥) is currently a first year Ph.D. student at [Gaoling Sch
 
 His research interests focus on large language model and dialogue system.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 
 <!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -45,10 +43,10 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021* Merit Student of Shandong University, SDU
-- *2021* The First Prize Academic Scholarship, SDU
-- *2021* The Second Prize Specialty Scholarship (Research Innovation), SDU
-- *2020* The Second Prize Academic Scholarship, Shandong University, SDU
+- *2021*, Merit Student of Shandong University, SDU
+- *2021*, The First Prize Academic Scholarship, SDU
+- *2021*, The Second Prize Specialty Scholarship (Research Innovation), SDU
+- *2020*, The Second Prize Academic Scholarship, Shandong University, SDU
 
 
 # 📖 Educations
@@ -60,4 +58,4 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.11 - Noe*, [BAICHUAN AI](https://www.baichuan-ai.com/home), China.
+- *2023.11 - Now*, [BAICHUAN AI](https://www.baichuan-ai.com/home), China.

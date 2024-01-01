@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jixiang Hong (洪吉祥) is currently a first year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn). He got the B.S. degree from [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) and [Taishan College](https://www.tsxt.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in 2023.
+Jixiang Hong (洪吉祥) is currently a first year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn). He got the B.S. degree from [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) and [Taishan College](https://www.tsxt.sdu.edu.cn/), [Shandong University (SDU)](https://www.sdu.edu.cn/) in 2023.
 
 His research interests focus on large language model and dialogue system.
 
@@ -31,7 +31,7 @@ His research interests focus on large language model and dialogue system.
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-[CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment](https://arxiv.org/pdf/2310.16271.pdf)
+[CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment (Arxiv)](https://arxiv.org/pdf/2310.16271.pdf)
 
 **Jixiang Hong\***, Quan Tu\*, Changyu Chen, Xing Gao, Ji Zhang, Rui Yan
 

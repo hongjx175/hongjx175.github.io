@@ -28,7 +28,7 @@ His research interests focus on large language model and dialogue system.
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 findings</div><img src='images/cyclealign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment (Arxiv)](https://arxiv.org/pdf/2310.16271.pdf)

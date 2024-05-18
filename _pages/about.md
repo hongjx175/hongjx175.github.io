@@ -31,7 +31,7 @@ His research interests focus on large language model and dialogue system.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 findings</div><img src='images/cyclealign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment (Arxiv)](https://arxiv.org/pdf/2310.16271.pdf)
+[CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment](https://arxiv.org/pdf/2310.16271.pdf)
 
 **Jixiang Hong\***, Quan Tu\*, Changyu Chen, Xing Gao, Ji Zhang, Rui Yan
 

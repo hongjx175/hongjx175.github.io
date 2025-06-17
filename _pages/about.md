@@ -19,7 +19,7 @@ redirect_from:
 
 Jixiang Hong (洪吉祥) is currently a first year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn). He got the B.S. degree from [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) and [Taishan College](https://www.tsxt.sdu.edu.cn/), [Shandong University (SDU)](https://www.sdu.edu.cn/) in 2023.
 
-His research interests focus on large language model and dialogue system.
+His research interests focus on LLMs and multi-modal LLMs (e.g., vision-language models and unified MLLMs).
 
 
 <!-- # 🔥 News -->
@@ -31,9 +31,21 @@ His research interests focus on large language model and dialogue system.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 findings</div><img src='images/cyclealign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment](https://arxiv.org/pdf/2310.16271.pdf)
+[CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment](https://aclanthology.org/2024.findings-acl.869.pdf)
 
 **Jixiang Hong\***, Quan Tu\*, Changyu Chen, Xing Gao, Ji Zhang, Rui Yan
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reinforcing Multimodal Understanding and Generation with Dual Self-rewards](https://arxiv.org/pdf/2506.07963)
+
+**Jixiang Hong**, Yiran Zhang, Guanzhong Wang, Yi Liu, Ji-Rong Wen, Rui Yan
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
